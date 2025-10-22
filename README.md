@@ -5,7 +5,7 @@ A production-ready template for deploying [Agency Swarm](https://github.com/VRSE
 **🌐 [Agencii](https://agencii.ai/)** - The official cloud platform for Agency Swarm deployments  
 **🔗 [GitHub App](https://github.com/apps/agencii)** - Automated deployment integration
 
----
+---1
 
 ## 🚀 Quick Start
 
